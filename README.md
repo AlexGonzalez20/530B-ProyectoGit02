@@ -1,1 +1,1 @@
-# 530B-ProyectoGit02
+# 530B_ProyectoGit02
